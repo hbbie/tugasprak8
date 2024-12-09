@@ -139,21 +139,25 @@ while True:
 
 # Hasil
 
-![Screenshot 2024-12-09 183443](https://github.com/user-attachments/assets/33fe41a3-7166-4bad-9131-8a930a85bc1a)
+![image](https://github.com/user-attachments/assets/c2d16078-7bee-4f8e-a482-41df00477eb0)
 
-Terlihat bahwa saya menambahkan data mahasiswa yang bernama nabiel dengan nilai 90
 
-![Screenshot 2024-12-09 183455](https://github.com/user-attachments/assets/22bac510-c4df-489d-916d-ab7b8c0d8c8f)
+Terlihat bahwa saya menambahkan data mahasiswa yang bernama nopal 90 dan rapli 85
 
-Saya meminta untuk menampilkan data mahasiswa yang saya masukan, karena saya hanya memasukan 1 nama, maka hanya ada nama nabiel saja yang keluar
+![image](https://github.com/user-attachments/assets/4042903f-fee7-485a-b47f-d8988535ecb5)
 
-![Screenshot 2024-12-09 183525](https://github.com/user-attachments/assets/b15f5749-0a05-42f6-bc25-f8c6ed6883ff)
 
-Selanjutnya saya ingin mengubah nilai dari data nabiel tersebut menjadi angka 100
+Saya meminta untuk menampilkan data mahasiswa yang saya masukan, karena saya hanya memasukan 2 data 2 mahasiswa bernama rapli dan nopal maka yang muncul akan itu
 
-![Screenshot 2024-12-09 183539](https://github.com/user-attachments/assets/79e0e214-90d0-43a3-b531-6553beb45515)
+![image](https://github.com/user-attachments/assets/c1a2d983-8938-4312-9454-377344422f58)
 
-Saya menghapus Data mahasiswa yang bernama nabiel
+
+Selanjutnya saya ingin mengubah nilai dari data rapli tersebut menjadi angka 100
+
+![image](https://github.com/user-attachments/assets/1b64e18f-eba8-4640-8db5-bd9ba1d419b1)
+
+
+Saya menghapus Data mahasiswa yang bernama nopal
 
 #Flowchart
 
